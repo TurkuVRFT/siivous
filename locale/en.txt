@@ -1,0 +1,34 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VRFastTrack // Siivous
+
+## Media
+
+### Title
+panorama_C0DF77BD_CAB0_6A9D_41C6_1516E08E870E.label = aloitus ulkooven vierestä
+panorama_C2216718_CBB3_EB63_41C1_3E8A2730CC14.label = ulkona
+panorama_C36EAC20_CBD0_3DA3_41D5_3ABA6F6E3DE7.label = siivos_aloitusKuva
+panorama_C3D2242D_CAB0_2DBD_41E8_7BFB5479F6EC.label = kaupan varasto aula 2
+panorama_C3D26A79_CAB0_25A2_41CF_70E18B7373CE.label = kaupan varasto aula 1
+panorama_C3D280E9_CAB0_26A2_41D7_85CA90483C19.label = aulan toiseen päätyyn 2
+panorama_C3D2CDC1_CAB1_DEE5_41E6_19685A26570D.label = koneet 1
+panorama_C3DED738_CAB0_6BA3_41C6_BF6C3625FEB9.label = aulan toinen pääty
+panorama_C3EE3377_CAB0_2BAE_41D9_229CD3E94C19.label = siivous huone 2
+panorama_C3EE75BA_CAB0_2EA7_41D5_DDC546B6D88F.label = takaisin aulassa 1
+panorama_C3EE7C97_CAB0_3D6D_41C6_41AB5C1B9376.label = siivous huoneen jälkeen
+panorama_C3EE8EF1_CAB0_5AA5_41E7_4E94A48AAD7A.label = takaisin aulassa 2
+panorama_C3EE9360_CAB0_2BA2_41E2_24FD0F632E14.label = vessa sisältä
+panorama_C3EEA56C_CAB0_2FA2_41D0_F6FDA0B5C15F.label = vessan jälkeen rattaat
+panorama_C3EEA81F_CAB0_659D_41E6_EEC661374A81.label = toimisto
+panorama_C3EEAA49_CAB0_65E5_41A9_F138716D8C61.label = ulos kaupasta
+panorama_C3EEFC40_CAB0_3DE4_41DF_51827C3399A0.label = vessa ulkoa
+panorama_C3EF8A3B_CAB1_E5A5_41E2_F1B47A05A8E9.label = siivous huone 1
+panorama_C3EFB76F_CAB1_EBBD_41CB_02370B649669.label = koneet 2
+panorama_C3EFC0E6_CAB1_E6AE_41E4_5792156BE6C3.label = siirtyminen takasin aulaan
+panorama_D798C6F4_CB70_2AA3_41DD_A83968FB21B6.label = siivous_tutoriaali
+panorama_D8530B9D_CB70_5A9D_41CA_880C5044FEEC.label = siivous_theEND
