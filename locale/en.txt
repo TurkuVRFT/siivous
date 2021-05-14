@@ -10,25 +10,61 @@ tour.name = VRFastTrack // Siivous
 ## Media
 
 ### Title
-panorama_C0DF77BD_CAB0_6A9D_41C6_1516E08E870E.label = aloitus ulkooven vierestä
-panorama_C2216718_CBB3_EB63_41C1_3E8A2730CC14.label = ulkona
 panorama_C36EAC20_CBD0_3DA3_41D5_3ABA6F6E3DE7.label = siivos_aloitusKuva
-panorama_C3D2242D_CAB0_2DBD_41E8_7BFB5479F6EC.label = kaupan varasto aula 2
-panorama_C3D26A79_CAB0_25A2_41CF_70E18B7373CE.label = kaupan varasto aula 1
-panorama_C3D280E9_CAB0_26A2_41D7_85CA90483C19.label = aulan toiseen päätyyn 2
-panorama_C3D2CDC1_CAB1_DEE5_41E6_19685A26570D.label = koneet 1
-panorama_C3DED738_CAB0_6BA3_41C6_BF6C3625FEB9.label = aulan toinen pääty
-panorama_C3EE3377_CAB0_2BAE_41D9_229CD3E94C19.label = siivous huone 2
-panorama_C3EE75BA_CAB0_2EA7_41D5_DDC546B6D88F.label = takaisin aulassa 1
-panorama_C3EE7C97_CAB0_3D6D_41C6_41AB5C1B9376.label = siivous huoneen jälkeen
-panorama_C3EE8EF1_CAB0_5AA5_41E7_4E94A48AAD7A.label = takaisin aulassa 2
-panorama_C3EE9360_CAB0_2BA2_41E2_24FD0F632E14.label = vessa sisältä
-panorama_C3EEA56C_CAB0_2FA2_41D0_F6FDA0B5C15F.label = vessan jälkeen rattaat
-panorama_C3EEA81F_CAB0_659D_41E6_EEC661374A81.label = toimisto
-panorama_C3EEAA49_CAB0_65E5_41A9_F138716D8C61.label = ulos kaupasta
-panorama_C3EEFC40_CAB0_3DE4_41DF_51827C3399A0.label = vessa ulkoa
-panorama_C3EF8A3B_CAB1_E5A5_41E2_F1B47A05A8E9.label = siivous huone 1
-panorama_C3EFB76F_CAB1_EBBD_41CB_02370B649669.label = koneet 2
-panorama_C3EFC0E6_CAB1_E6AE_41E4_5792156BE6C3.label = siirtyminen takasin aulaan
+panorama_C3E17B25_CFFC_171C_41DD_E8C943A5E9B8.label = takaisin aulassa 1
+panorama_C3F72028_CFFC_1114_41E4_7147247D8FEE.label = vessan jälkeen rattaat
+panorama_C3FA0DB0_CFFC_7374_41E2_330441630D1A.label = siirtyminen takasin aulaan
+panorama_C4123F18_CFF4_0F34_41D9_7EFE707DF626.label = kaupan varasto aula 1
+panorama_C4191EF8_CFFC_0EF4_41B7_C79EFCDB5A4E.label = koneet 2
+panorama_C419C41E_CFFC_312C_41D4_A2C4A79499F6.label = koneet 1
+panorama_C41AC3E0_CFF4_1715_41E2_3B8CE3BB7854.label = aloitus ulkooven vierestä
+panorama_C41BBC5E_CFF4_112C_41C4_656944DC30C3.label = vessa sisältä
+panorama_C427005B_CFF4_1134_41D2_9C1B297B3F60.label = kaupan varasto aula 2
+panorama_C42A138B_CFF4_1715_41B2_21CD81569FEF.label = siivous huoneen jälkeen
+panorama_C42FA548_CFF4_1314_41C4_600EF903882E.label = vessa ulkoa
+panorama_C4373F68_CFF4_0F14_41D9_2442919F0723.label = siivous huone 1
+panorama_C4390DD7_CFF4_F33C_41A4_F4A7F64C9309.label = siivous huone 2
+panorama_C4DD8140_CFF4_1314_41E4_C1F28C360453.label = ulkona
 panorama_D798C6F4_CB70_2AA3_41DD_A83968FB21B6.label = siivous_tutoriaali
 panorama_D8530B9D_CB70_5A9D_41CA_880C5044FEEC.label = siivous_theEND
+panorama_DBA4DC96_D01B_F13F_41C1_80F48F4AAD95.label = aulan toinen pääty
+panorama_DBB82CE5_D01C_111D_41C3_1E46B12EE4B4.label = aulan toiseen päätyyn 2
+panorama_DBBA4DF3_D01C_32F5_41B6_256FCB0AF400.label = toimisto
+panorama_DBBFE79E_D014_1F2C_41C5_20EE17308773.label = takaisin aulassa 2
+panorama_DC2D85B0_D01C_7374_41C7_261B779AF8E8.label = ulos kaupasta
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_07DF2982_18FE_A13E_41A1_8E6423F357BE.toolTip = Siivotaan WC
+HotspotPanoramaOverlayArea_08370B9C_1877_6487_41B2_4F1B0ACC359B.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_0A5C80B1_1837_BF5A_41B2_A3C204072B98.toolTip = Siivotaan WC-tilat
+HotspotPanoramaOverlayArea_0CA60D65_1873_A1C5_4179_A972225C78C0.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_163618AE_1853_6483_41B7_1A996A3D3B06.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_16EF5CD6_184F_7C83_41B3_4828ABD55DF7.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_17F32DEC_1871_DC87_41AE_2A4698E39AE4.toolTip = Siirry sisälle työkohteeseen
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_D58B93B8_D03F_EED0_41D4_73CFC08013DB.ok = OK
+
+### Report Screen
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.completion = Completed
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.downloadCSV = Download .csv
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.elapsedTime = Time
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.items = Items Found
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.questions = Questions
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.questionsCorrect = Correct
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.questionsIncorrect = Incorrect
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.repeat = Repeat
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.submitToLMS = Submit
+quizScore_D589D3B8_D03F_EED0_41E4_1156A94421BE.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_D58A83B8_D03F_EED0_41DA_312E49407074.repeat = Repeat
+quizTimeout_D58A83B8_D03F_EED0_41DA_312E49407074.score = View Score
+quizTimeout_D58A83B8_D03F_EED0_41DA_312E49407074.title = - TIMEOUT -
