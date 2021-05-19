@@ -10,6 +10,17 @@ tour.name = VRFastTrack // Siivous
 ## Media
 
 ### Title
+album_2A3D0CAE_6BC9_BDA8_41D0_F01E017027A8.label = Photo Album IMG_20210413_062657
+album_2A3D0CAE_6BC9_BDA8_41D0_F01E017027A8_0.label = IMG_20210413_062657
+album_2A3D0CAE_6BC9_BDA8_41D0_F01E017027A8_1.label = IMG_20210413_062703
+panorama_62E6BE7F_7E13_155A_41BB_41CE59BAEACF.label = siivous huoneen jälkeen - Copy
+panorama_6A3DA801_7E37_1CA7_41B2_7D995E323A5D.label = takaisin aulassa 2 - Copy
+panorama_6A41EBC5_7FF9_E7D7_41DC_38391BAD2F86.label = vessa ulkoa - Copy
+panorama_6BC3FC61_79C7_5526_41D8_88FAF620933F.label = siirtyminen takasin aulaan - Copy
+panorama_6D0171A2_7E33_0FEB_41A1_C7807D06E70F.label = kaupan varasto aula 2 - Copy
+panorama_6D902DAC_7E15_37FE_41D3_EE1CDA579DAC.label = siivous huone 1 - Copy
+panorama_74D19D4B_7E1F_74BA_41D8_1AA5D75175E5.label = aulan toinen pääty - Copy
+panorama_7735D4DC_797D_D55A_41AF_E54B321EEC65.label = koneet 2 - Copy
 panorama_C36EAC20_CBD0_3DA3_41D5_3ABA6F6E3DE7.label = siivos_aloitusKuva
 panorama_C3E17B25_CFFC_171C_41DD_E8C943A5E9B8.label = takaisin aulassa 1
 panorama_C3F72028_CFFC_1114_41E4_7147247D8FEE.label = vessan jälkeen rattaat
@@ -37,12 +48,11 @@ panorama_DC2D85B0_D01C_7374_41C7_261B779AF8E8.label = ulos kaupasta
 
 ### Tooltip
 HotspotPanoramaOverlayArea_07DF2982_18FE_A13E_41A1_8E6423F357BE.toolTip = Siivotaan WC
-HotspotPanoramaOverlayArea_08370B9C_1877_6487_41B2_4F1B0ACC359B.toolTip = Siirry sisälle työkohteeseen
 HotspotPanoramaOverlayArea_0A5C80B1_1837_BF5A_41B2_A3C204072B98.toolTip = Siivotaan WC-tilat
 HotspotPanoramaOverlayArea_0CA60D65_1873_A1C5_4179_A972225C78C0.toolTip = Siirry sisälle työkohteeseen
 HotspotPanoramaOverlayArea_163618AE_1853_6483_41B7_1A996A3D3B06.toolTip = Siirry sisälle työkohteeseen
-HotspotPanoramaOverlayArea_16EF5CD6_184F_7C83_41B3_4828ABD55DF7.toolTip = Siirry sisälle työkohteeseen
 HotspotPanoramaOverlayArea_17F32DEC_1871_DC87_41AE_2A4698E39AE4.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_7AA8670C_6A48_4C68_41D0_741407238102.toolTip = Siirry sisälle työkohteeseen
 
 ## E-Learning
 
