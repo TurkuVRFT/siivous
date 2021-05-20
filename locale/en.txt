@@ -48,11 +48,11 @@ panorama_DC2D85B0_D01C_7374_41C7_261B779AF8E8.label = ulos kaupasta
 
 ### Tooltip
 HotspotPanoramaOverlayArea_07DF2982_18FE_A13E_41A1_8E6423F357BE.toolTip = Siivotaan WC
-HotspotPanoramaOverlayArea_0A5C80B1_1837_BF5A_41B2_A3C204072B98.toolTip = Siivotaan WC-tilat
 HotspotPanoramaOverlayArea_0CA60D65_1873_A1C5_4179_A972225C78C0.toolTip = Siirry sisälle työkohteeseen
 HotspotPanoramaOverlayArea_163618AE_1853_6483_41B7_1A996A3D3B06.toolTip = Siirry sisälle työkohteeseen
 HotspotPanoramaOverlayArea_17F32DEC_1871_DC87_41AE_2A4698E39AE4.toolTip = Siirry sisälle työkohteeseen
-HotspotPanoramaOverlayArea_7AA8670C_6A48_4C68_41D0_741407238102.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_A60848FF_8540_19F3_41DF_BF6EC3FAC429.toolTip = Siirry sisälle työkohteeseen
+HotspotPanoramaOverlayArea_A628E3C1_8540_280F_41A6_38CC25BF30A8.toolTip = Siivotaan WC-tilat
 
 ## E-Learning
 
