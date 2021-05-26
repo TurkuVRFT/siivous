@@ -56,6 +56,7 @@ HotspotPanoramaOverlayArea_66D8EACE_7E15_7DBA_41DF_2963EE45D555.toolTip = Kään
 HotspotPanoramaOverlayArea_6BDDBC70_7F08_20CD_41DE_4E0BE970EA81.toolTip = Käänny oikealle
 HotspotPanoramaOverlayArea_7D6A4840_6A48_44D7_41D2_F09F5BE8F2EA.toolTip = Käänny vasemmalle
 HotspotPanoramaOverlayArea_A628E3C1_8540_280F_41A6_38CC25BF30A8.toolTip = Siivotaan WC-tilat
+HotspotPanoramaOverlayArea_B8FDA1FD_A8B8_1390_41B6_48EBEAE4712A.toolTip = Käänny vasemmalle
 
 ## E-Learning
 
