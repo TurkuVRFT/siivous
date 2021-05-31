@@ -1,5 +1,6 @@
 {
  "name": "VRFastTrack // Siivous",
+ "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
  "icons": [
   {
@@ -38,7 +39,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true"
 }

@@ -57,6 +57,7 @@ HotspotPanoramaOverlayArea_6BDDBC70_7F08_20CD_41DE_4E0BE970EA81.toolTip = Kään
 HotspotPanoramaOverlayArea_7D6A4840_6A48_44D7_41D2_F09F5BE8F2EA.toolTip = Käänny vasemmalle
 HotspotPanoramaOverlayArea_A628E3C1_8540_280F_41A6_38CC25BF30A8.toolTip = Siivotaan WC-tilat
 HotspotPanoramaOverlayArea_B8FDA1FD_A8B8_1390_41B6_48EBEAE4712A.toolTip = Käänny vasemmalle
+HotspotPanoramaOverlayArea_D01AFA3C_C16A_E8AA_41E3_7FA32D4645FF.toolTip = (Ovenkahva)
 
 ## E-Learning
 
