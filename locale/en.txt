@@ -44,8 +44,6 @@ panorama_DC2D85B0_D01C_7374_41C7_261B779AF8E8.label = ulos kaupasta
 
 ### Tooltip
 HotspotPanoramaOverlayArea_A7B1958D_BA5B_DB99_41E4_CB20A495AF83.toolTip = Käänny vasemmalle
-HotspotPanoramaOverlayArea_B8FDA1FD_A8B8_1390_41B6_48EBEAE4712A.toolTip = Käänny vasemmalle
-HotspotPanoramaOverlayArea_D2D9DE55_C07F_0661_41E3_FE2CA612A1EF.toolTip = (Ovenkahva)
 HotspotPanoramaOverlayArea_D91B08E8_C0B1_0A2F_41E5_80A1F7F78770.toolTip = Käänny vasemmalle
 HotspotPanoramaOverlayArea_DAB04B00_C0B3_0FDF_41CB_83CB37DAB1B2.toolTip = Käänny oikealle
 HotspotPanoramaOverlayArea_E5E79C5C_C05F_0A60_41CB_705438731A70.toolTip = Käänny oikealle
