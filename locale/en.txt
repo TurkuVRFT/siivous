@@ -40,14 +40,6 @@ panorama_DBBA4DF3_D01C_32F5_41B6_256FCB0AF400.label = toimisto
 panorama_DBBFE79E_D014_1F2C_41C5_20EE17308773.label = takaisin aulassa 2
 panorama_DC2D85B0_D01C_7374_41C7_261B779AF8E8.label = ulos kaupasta
 
-## Hotspot
-
-### Tooltip
-HotspotPanoramaOverlayArea_A7B1958D_BA5B_DB99_41E4_CB20A495AF83.toolTip = Käänny vasemmalle
-HotspotPanoramaOverlayArea_D91B08E8_C0B1_0A2F_41E5_80A1F7F78770.toolTip = Käänny vasemmalle
-HotspotPanoramaOverlayArea_DAB04B00_C0B3_0FDF_41CB_83CB37DAB1B2.toolTip = Käänny oikealle
-HotspotPanoramaOverlayArea_E5E79C5C_C05F_0A60_41CB_705438731A70.toolTip = Käänny oikealle
-
 ## E-Learning
 
 ### Score Name
